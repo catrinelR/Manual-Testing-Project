@@ -1,9 +1,11 @@
 The tested website can be accessed via https://www.monamiagro.ro/
 The main objective of this testing session was to validate that the website can meet customer expectations and can be used properly, efficiently and safe by customers in order
-to purchase the products they desire. With this scope, main functionalities such as user account, registration, product pages, shopping cart, checkout, payment process were tested
-using different testing types. \
+to purchase the products they desire. With this scope, main functionalities such as user account, registration, product pages, shopping cart, checkout, payment process were tested using different testing types. \
 The testing process was conducted on the latest version of the website, using mainly Google Chrome
 browser, under Windows 10 operating system. \
+\
+A total of 88 test cases have been designed for this session and 88 (100%) - all of
+them were executed: 62 test cases passed and 26 test cases failed. A total number of 18 defects and 3 Improvements were logged into Mantis Bug Tracker. The 21 bugs found affected 26 test cases. \
 \
 Testing tools used for testing: \
  TestLink \
